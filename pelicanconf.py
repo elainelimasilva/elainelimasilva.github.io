@@ -18,17 +18,12 @@ CLAIM_BING = "8FF1B025212A47B5B27CC47163A042F0"
 
 LANDING_PAGE_TITLE = "Não somos, intersomos"
 
-#LANDING_PAGE_ABOUT = {
-#    "title": "My blog",
-#    "details": """<p>This website contains Info that might be interesting for you, enjoy!</p>""",
-#}
-
 PROJECTS_TITLE = "Projetos"
 PROJECTS = [
     {
         "name": "Canal da Professora Elaine",
-         "url": "https://www.youtube.com/channel/UC6b7RrF8m7hMuNnbwmyLtKw",
-         "description": "Meu canal no Youtube",
+        "url": "https://www.youtube.com/channel/UC6b7RrF8m7hMuNnbwmyLtKw",
+        "description": "Meu canal no Youtube",
     },
     {
         "name": "Narrativas Femininas",
@@ -45,10 +40,10 @@ LINKS = (
 # Keep 'name' like 'twitter' with what 'FontAwesome has for putting the right icon'
 
 SOCIAL = (
-    ('youtube', 'https://www.youtube.com/channel/UC6b7RrF8m7hMuNnbwmyLtKw'),
-    ('instagram', 'https://instagram.com/elaine.lima.silva'),
-    ('facebook', 'https://facebook.com/elaine.limadasilva'),
-    ('twitter', 'https://twitter.com/ElaineLimadaSi8'),
+    ("youtube", "https://www.youtube.com/channel/UC6b7RrF8m7hMuNnbwmyLtKw"),
+    ("instagram", "https://instagram.com/elaine.lima.silva"),
+    ("facebook", "https://facebook.com/elaine.limadasilva"),
+    ("twitter", "https://twitter.com/ElaineLimadaSi8"),
 )
 
 

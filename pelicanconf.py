@@ -88,7 +88,7 @@ PHOTO_EXIF_COPYRIGHT = "COPYRIGHT"
 
 PATH = "content"
 
-TIMEZONE = "America/São_Paulo"
+TIMEZONE = "America/Sao_Paulo"
 
 # Put as draft content in the future
 WITH_FUTURE_DATES = True

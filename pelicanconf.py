@@ -29,7 +29,7 @@ PROJECTS = [
         "name": "Narrativas Femininas",
         "url": "https://instagram.com/narrativa_femininas",
         "description": "Experiências e conteudos sobre maternidade, envelhecimento, empoderamento e identidades",
-    }
+    },
 ]
 
 LINKS = (

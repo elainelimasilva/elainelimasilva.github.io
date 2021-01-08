@@ -37,7 +37,7 @@ repos:
         - gh-pages
     -   id: requirements-txt-fixer
     -   id: sort-simple-yaml
-    -   id: trailing-whitespace
+    #-   id: trailing-whitespace
 -   repo: https://gitlab.com/pycqa/flake8
     rev: 3.8.3
     hooks:

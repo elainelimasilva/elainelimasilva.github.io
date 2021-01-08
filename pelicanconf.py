@@ -6,45 +6,36 @@ import datetime
 # THINGS TO CONFIGURE
 # ---------------------------------------------------------------------
 
-AUTHOR = "A blog-o-matic user"
-SITENAME = "My personal blog with blog-o-matic"
+AUTHOR = "Elaine Lima"
+SITENAME = "Blog da Professora Elaine Lima"
 SITESUBTITLE = "This is where I do test things"
 SITEURL = "/"
-DEFAULT_LANG = "en"
+DEFAULT_LANG = "pt"
 DEFAULT_CATEGORY = "blog"
-CLAIM_GOOGLE = "Bk4Z5ucHLyPXqlZlj5LzANpYBBSvxqBW4E8i-Kwf-bQ"
+CLAIM_GOOGLE = "hPsjXvZJKWUu9ml7OJHienwqSordoOb5oZ8jJ3pFYco"
 CLAIM_BING = "8FF1B025212A47B5B27CC47163A042F0"
 
 
-LANDING_PAGE_ABOUT = {
-    "title": "My blog",
-    "details": """<p>This website contains Info that might be interesting for you, enjoy!</p>""",
-}
+LANDING_PAGE_TITLE = "Não somos, intersomos"
 
+#LANDING_PAGE_ABOUT = {
+#    "title": "My blog",
+#    "details": """<p>This website contains Info that might be interesting for you, enjoy!</p>""",
+#}
 
+PROJECTS_TITLE = "Projetos"
 PROJECTS = [
     {
-        "name": "Blog-o-matic",
-        "url": "https://github.com/iranzo/blog-o-matic",
-        "description": "Canned blog automation for quickly setting up a blog with Pelican",
+        "name": "Canal da Professora Elaine",
+         "url": "https://www.youtube.com/channel/UC6b7RrF8m7hMuNnbwmyLtKw",
+         "description": "Meu canal no Youtube",
     },
     {
-        "name": "Citellus",
-        "url": "https://citellus.org",
-        "description": "Troubleshooting automation tool with easy to contribute rules",
-    },
-    {
-        "name": "Pablo Iranzo Blog",
-        "url": "https://iranzo.github.io",
-        "description": "Other projects at Github website",
-    },
-    {
-        "name": "Redken Telegram BOT",
-        "url": "https://t.me/redken_bot",
-        "description": "A Telegram bot with support for Karma, RSS Feeds, Quotes, etc",
-    },
+        "name": "Narrativas Femininas",
+        "url": "https://instagram.com/narrativa_femininas",
+        "description": "Experiências e conteudos sobre maternidade, envelhecimento, empoderamento e identidades",
+    }
 ]
-
 
 LINKS = (
     ("Redken on telegram", "https://t.me/redken_bot"),
@@ -54,9 +45,10 @@ LINKS = (
 # Keep 'name' like 'twitter' with what 'FontAwesome has for putting the right icon'
 
 SOCIAL = (
-    ("Twitter", "http://twitter.com/iranzop"),
-    ("github", "http://github.com/iranzo"),
-    ("linkedin", "https://www.linkedin.com/in/iranzo/"),
+    ('youtube', 'https://www.youtube.com/channel/UC6b7RrF8m7hMuNnbwmyLtKw'),
+    ('instagram', 'https://instagram.com/elaine.lima.silva'),
+    ('facebook', 'https://facebook.com/elaine.limadasilva'),
+    ('twitter', 'https://twitter.com/ElaineLimadaSi8'),
 )
 
 
@@ -101,7 +93,7 @@ PHOTO_EXIF_COPYRIGHT = "COPYRIGHT"
 
 PATH = "content"
 
-TIMEZONE = "Europe/Madrid"
+TIMEZONE = "America/São Paulo"
 
 # Put as draft content in the future
 WITH_FUTURE_DATES = True

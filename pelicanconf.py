@@ -16,7 +16,7 @@ AUTHORS = {
 }
 SITENAME = "Blog da Professora Elaine Lima"
 SITESUBTITLE = "Subtitulo de rodapé aqui"
-SITEDESCRIPTION = "Blog pessoal da Professora Elaine Lima sobre Sociologia"  
+SITEDESCRIPTION = "Blog pessoal da Professora Elaine Lima sobre Sociologia"
 SITEURL = "/"
 DEFAULT_LANG = "pt"
 DEFAULT_CATEGORY = "blog"
@@ -57,7 +57,7 @@ SOCIAL = (
 
 TWITTER_USERNAME = "ElaineLimadaSi8"
 # Update if you use amazon links
-#AMAZON_ONELINK = "23824450-ef77-4537-9259-8590465886f1"
+# AMAZON_ONELINK = "23824450-ef77-4537-9259-8590465886f1"
 
 # GOOGLE_ANALYTICS tracking ID
 # GOOGLE_ANALYTICS = "UA-81705-12"

@@ -7,8 +7,14 @@ import datetime
 # ---------------------------------------------------------------------
 
 AUTHOR = "Elaine Lima"
+AUTHORS = {
+    "Elaine Lima": {
+        "blurb": "descrição de autora aqui",
+        "url: "elainelimasilva.github.io",
+        "avatar: "https://avatars.githubusercontent.com/u/77029826": 
 SITENAME = "Blog da Professora Elaine Lima"
-SITESUBTITLE = "This is where I do test things"
+SITESUBTITLE = "Subtitulo de rodapé aqui"
+SITEDESCRIPTION = "Blog pessoal da Professora Elaine Lima sobre Sociologia"  
 SITEURL = "/"
 DEFAULT_LANG = "pt"
 DEFAULT_CATEGORY = "blog"
@@ -47,9 +53,9 @@ SOCIAL = (
 )
 
 
-# TWITTER_USERNAME = "fillit"
+TWITTER_USERNAME = "ElaineLimadaSi8"
 # Update if you use amazon links
-AMAZON_ONELINK = "23824450-ef77-4537-9259-8590465886f1"
+#AMAZON_ONELINK = "23824450-ef77-4537-9259-8590465886f1"
 
 # GOOGLE_ANALYTICS tracking ID
 # GOOGLE_ANALYTICS = "UA-81705-12"
@@ -142,7 +148,7 @@ THEME = "themes/elegant"
 
 # elegant
 TYPOGRIFY = True
-RECENT_ARTICLE_SUMMARY = True
+RECENT_ARTICLE_SUMMARY = False
 RESPONSIVE_IMAGES = True
 
 MARKDOWN = {
@@ -159,9 +165,9 @@ MARKDOWN = {
 DIRECT_TEMPLATES = ("index", "tags", "categories", "archives", "search", "404")
 
 # Elegant Labels
-SOCIAL_PROFILE_LABEL = "Stay in Touch"
-RELATED_POSTS_LABEL = "Keep Reading"
-SHARE_POST_INTRO = "Like this post? Share on:"
+SOCIAL_PROFILE_LABEL = "Mantenha contato"
+RELATED_POSTS_LABEL = "Leia mais"
+SHARE_POST_INTRO = "Gostou desta publicação? Compartilhe:"
 COMMENTS_INTRO = ""
 
 FILENAME_METADATA = r"(?P<date>\d{4}-\d{2}-\d{2})_(?P<slug>.*)"

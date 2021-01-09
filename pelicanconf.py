@@ -10,8 +10,8 @@ AUTHOR = "Elaine Lima"
 AUTHORS = {
     "Elaine Lima": {
         "blurb": "descrição de autora aqui",
-        "url: "https://elainelimasilva.github.io",
-        "avatar: "https://avatars.githubusercontent.com/u/77029826",
+        "url": "https://elainelimasilva.github.io",
+        "avatar": "https://avatars.githubusercontent.com/u/77029826",
     },
 }
 SITENAME = "Blog da Professora Elaine Lima"

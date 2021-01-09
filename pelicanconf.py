@@ -10,7 +10,7 @@ AUTHOR = "Elaine Lima"
 AUTHORS = {
     "Elaine Lima": {
         "blurb": "descrição de autora aqui",
-        "url: "elainelimasilva.github.io",
+        "url: "https://elainelimasilva.github.io",
         "avatar: "https://avatars.githubusercontent.com/u/77029826",
     },
 }

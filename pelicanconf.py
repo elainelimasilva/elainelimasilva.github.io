@@ -12,6 +12,8 @@ AUTHORS = {
         "blurb": "descrição de autora aqui",
         "url: "elainelimasilva.github.io",
         "avatar: "https://avatars.githubusercontent.com/u/77029826": 
+    },
+}
 SITENAME = "Blog da Professora Elaine Lima"
 SITESUBTITLE = "Subtitulo de rodapé aqui"
 SITEDESCRIPTION = "Blog pessoal da Professora Elaine Lima sobre Sociologia"  

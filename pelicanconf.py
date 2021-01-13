@@ -17,7 +17,7 @@ AUTHORS = {
 SITENAME = "Blog da Professora Elaine Lima"
 SITESUBTITLE = "Subtitulo de rodapé aqui"
 SITEDESCRIPTION = "Blog pessoal da Professora Elaine Lima sobre Sociologia"
-SITEURL = "/"
+SITEURL = "http://127.0.0.1:8000"
 DEFAULT_LANG = "pt"
 DEFAULT_CATEGORY = "blog"
 CLAIM_GOOGLE = "hPsjXvZJKWUu9ml7OJHienwqSordoOb5oZ8jJ3pFYco"
@@ -48,6 +48,7 @@ LINKS = (
 # Keep 'name' like 'twitter' with what 'FontAwesome has for putting the right icon'
 
 SOCIAL = (
+    ("gmail", "mailto:narrativasfemininas@gmail.com"),
     ("youtube", "https://www.youtube.com/channel/UC6b7RrF8m7hMuNnbwmyLtKw"),
     ("instagram", "https://instagram.com/elaine.lima.silva"),
     ("facebook", "https://facebook.com/elaine.limadasilva"),
@@ -63,8 +64,8 @@ TWITTER_USERNAME = "ElaineLimadaSi8"
 # GOOGLE_ANALYTICS = "UA-81705-12"
 
 # Configure if you use Disqus for comments
-# DISQUS_SITENAME = "iranzo-github-io"
-# DISQUS_DISPLAY_COUNTS = True
+DISQUS_SITENAME = "elainelimasilva-github-io"
+DISQUS_DISPLAY_COUNTS = True
 
 
 # Extra files customization
@@ -84,7 +85,7 @@ PHOTO_THUMB = (192, 144, 60)
 PHOTO_SQUARE_THUMB = False
 PHOTO_RESIZE_JOBS = 5
 PHOTO_WATERMARK = True
-PHOTO_WATERMARK_TEXT = "© Pablo Iranzo Gómez (https://iranzo.github.io)"
+PHOTO_WATERMARK_TEXT = ""  # © Elaine Lima"
 PHOTO_WATERMARK_IMG = ""
 PHOTO_EXIF_KEEP = False
 PHOTO_EXIF_REMOVE_GPS = True
@@ -97,6 +98,10 @@ PHOTO_EXIF_COPYRIGHT = "COPYRIGHT"
 PATH = "content"
 
 TIMEZONE = "America/Sao_Paulo"
+DATE_FORMATS = {"pt": "%b %d, %Y"}
+
+READING_TIME_LOWER_LIMIT = 3
+
 
 # Put as draft content in the future
 WITH_FUTURE_DATES = True

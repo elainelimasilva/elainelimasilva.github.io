@@ -1,11 +1,11 @@
 ---
 title: Crônica do Vô Lúcio
 subtitle:
-tags: crônicas
+tags: Crônicas
 layout: post
 date: 2016-08-13 00:00
 comments: true
-category: blog
+category: Crônicas
 description:
 lang: pt
 ---

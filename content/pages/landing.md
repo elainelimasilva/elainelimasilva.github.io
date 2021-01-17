@@ -7,8 +7,9 @@ status: hidden
 slug: landing-page-about-hidden
 ---
 
-Sou natural de Lages no Planalto Catarinense. Mãe. Cientista Social. Professora de Sociologia e Antropologia.
-Feminista. Escritora. Criadora de conteúdo digital no Instagram @narrativas_femininas.
+<img style="float:right; margin-left:10px" src="https://avatars.githubusercontent.com/u/77029826" width="200">
+Sou natural de Lages no Planalto Catarinense. Mãe. Cientista Social. Professora de Sociologia e Antropologia. Feminista.
+Escritora. Criadora de conteúdo digital no Instagram [@narrativas_femininas](https://www.instagram.com/narrativas_femininas).
 Leonina com ascendência em capricórnio e, portanto, uma pessoa de fé e confiança em si mesma.
 
 ## Qual a intenção desse blog?

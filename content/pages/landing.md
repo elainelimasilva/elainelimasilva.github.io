@@ -1,16 +1,19 @@
 ---
 author: Elaine Lima
-title: Sobre Mim
+title: Quem sou eu?
 layout: page
 date: 2021-01-05 7:30:47 +0300
 status: hidden
 slug: landing-page-about-hidden
 ---
 
-Olá! Sou Elaine Lima, mãe, catarinense e natural de Lages.
-Cientista Social pela Universidade Federal de Santa Catarina, Mestra em Sociologia Política pela mesma universidade
-e Professora Efetiva de Sociologia na rede pública.
+Sou natural de Lages no Planalto Catarinense. Mãe. Cientista Social. Professora de Sociologia e Antropologia. 
+Feminista. Escritora. Criadora de conteúdo digital no Instagram @narrativas_femininas.
+Leonina com ascendência em capricórnio e, portanto, uma pessoa de fé e confiança em si mesma                      .
 
 ## Qual a intenção desse blog?
 
-Este blog apresenta minhas aulas de Sociologia, minhas reflexões de vida, crônicas e demais temas relacionados.
+Este blog tem a intenção de possibilitar a reflexão e a (auto)crítica através de textos autorais,
+especialmente crônicas que versam sobre maternidade, envelhecimento, corpo e identidade como pano de fundo.
+Enquanto gênero textual de linguagem simples e coloquial, as crônicas deste blog são sobre eventos vivenciados
+no cotidiano, intercalando possíveis temas políticos, sociais e culturais de um modo lúdico e criativo. 

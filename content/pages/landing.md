@@ -13,4 +13,4 @@ e Professora Efetiva de Sociologia na rede pública.
 
 ## Qual a intenção desse blog?
 
-Este blog apresenta minhas aulas de Sociologia e demais temas relacionados.
+Este blog apresenta minhas aulas de Sociologia, minhas reflexões de vida, crônicas e demais temas relacionados.

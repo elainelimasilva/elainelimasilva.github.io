@@ -3,7 +3,7 @@ title: Teatro Experimental do Negro
 subtitle: Dos palcos para a vida
 tags: Consciência Negra
 layout: post
-date: 2020-03-24 00:00
+date: 2019-11-19 00:00
 comments: true
 category: Artigos acadêmicos
 description:
